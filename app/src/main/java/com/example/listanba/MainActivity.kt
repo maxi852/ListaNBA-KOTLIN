@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             Nba(1,"Celtics","Boston Garden",17,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/190px-Boston_Celtics.svg.png"),
             Nba(2,"Knicks","Madison Square Garden",4,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/2/25/New_York_Knicks_logo.svg/240px-New_York_Knicks_logo.svg.png"),
             Nba(3,"Bucks","Fiserv Forum",23,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cleveland_Cavaliers_secondary_logo.svg/117px-Cleveland_Cavaliers_secondary_logo.svg.png"),
-            Nba(4,"Cavaliers","Rocket Mortgage FieldHouse",1,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/190px-Boston_Celtics.svg.png"),
+            Nba(4,"Cavaliers","Rocket Mortgage",1,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/190px-Boston_Celtics.svg.png"),
             Nba(5,"Pacers","Gainbridge Fieldhouse",17,Conferencias.ESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Indiana_Pacers.svg/200px-Indiana_Pacers.svg.png"),
             Nba(6,"Thunder","Paycom Center",17,Conferencias.OESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/200px-Oklahoma_City_Thunder.svg.png"),
             Nba(7,"Nuggets","Ball Arena",1,Conferencias.OESTE,"https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/200px-Denver_Nuggets.svg.png"),
